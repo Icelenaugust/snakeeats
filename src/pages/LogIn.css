@@ -1,0 +1,62 @@
+.login-tab {
+    position: relative;
+    margin: 50px auto;
+    width: 400px;
+    height: 400px;
+    background-color: rgb(129, 111, 107);
+    border-radius: 10px;
+}
+.title {
+    color: #fff;
+    padding: 30px;
+    display: block;
+    text-align: center;
+    
+}
+
+.form-control {
+    display: block;
+    text-align: center;
+    width: 300px;
+    height: 40px;
+    margin-left: 50px;
+    border-radius: 5px;
+    outline-color: rgb(206, 211, 243);
+
+}
+
+
+
+
+.login-button {
+    display: block;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 20px;
+    width: 30%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    background-color: rgb(63, 48, 44);
+    color: #fff;
+}
+
+.signup-button {
+    display: block;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 50px;
+    width: 70%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    background-color: rgb(129, 111, 107);
+    color: #fff;
+    
+}

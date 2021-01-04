@@ -1,0 +1,16 @@
+.signup-tab {
+    position: relative;
+    margin: 50px auto;
+    width: 400px;
+    height: 450px;
+    background-color: rgb(129, 111, 107);
+    border-radius: 10px;
+}
+
+.signup-title {
+    color: #fff;
+    padding: 17px;
+    display: block;
+    text-align: center;
+    
+}
