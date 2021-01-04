@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/snakeeats/static/css/main.f6b1fa8f.chunk.css",
+    "main.js": "/snakeeats/static/js/main.6655e05f.chunk.js",
+    "main.js.map": "/snakeeats/static/js/main.6655e05f.chunk.js.map",
+    "runtime-main.js": "/snakeeats/static/js/runtime-main.870d0d3b.js",
+    "runtime-main.js.map": "/snakeeats/static/js/runtime-main.870d0d3b.js.map",
+    "static/js/2.0fc6e77c.chunk.js": "/snakeeats/static/js/2.0fc6e77c.chunk.js",
+    "static/js/2.0fc6e77c.chunk.js.map": "/snakeeats/static/js/2.0fc6e77c.chunk.js.map",
+    "index.html": "/snakeeats/index.html",
+    "static/css/main.f6b1fa8f.chunk.css.map": "/snakeeats/static/css/main.f6b1fa8f.chunk.css.map",
+    "static/js/2.0fc6e77c.chunk.js.LICENSE.txt": "/snakeeats/static/js/2.0fc6e77c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.870d0d3b.js",
+    "static/js/2.0fc6e77c.chunk.js",
+    "static/css/main.f6b1fa8f.chunk.css",
+    "static/js/main.6655e05f.chunk.js"
+  ]
+}
